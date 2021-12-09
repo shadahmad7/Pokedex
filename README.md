@@ -27,7 +27,7 @@ using React hooks (useState, useEffect, useRef).<br>
 Download Expo-client App on android or ios and scan the barcode to run the App<br>
 <img src="screenshots/s1.PNG" width="180" height="200"/>
 <h4>Some ScreenShots</h4>
-<img src="screenshots/s2.jpg" width="400" height="800"/>
-<img src="screenshots/s3" width="400" height="800"/>
-<img src="screenshots/s4" width="400" height="800"/>
+<img src="screenshots/s2.jpeg" width="400" height="800"/>
+<img src="screenshots/s3.jpeg" width="400" height="800"/>
+<img src="screenshots/s4.jpeg" width="400" height="800"/>
 
