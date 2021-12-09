@@ -24,7 +24,7 @@ Passing hooks to the screens with useEffect to limit re-render cycles.<br>
 Using FlatList, TouchableOpacity, ScrollView, ImageBackground, Activityindicator.<br>
 Custom components for pokemon card.<br>
 Using React hooks (useState, useEffect, useRef).<br>
-Download Expo-client App on android or ios and scan the barcode to run the App<br>
+<b>Download Expo-client App on android or ios and scan the barcode to run the App</b><br>
 <img src="screenshots/s1.png" width="180" height="200"/>
 <h4>Some ScreenShots</h4>
 <img src="screenshots/s2.jpeg" width="400" height="800"/>
