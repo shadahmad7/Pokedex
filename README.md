@@ -20,7 +20,7 @@ Handling logic to filter recipes.<br>
 Using hooks to pass data to the header without re-render.<br>
 Using axios to use PokeApi<br>
 Passing hooks to the screens with useEffect to limit re-render cycles.<br>
-<h2>React Native<h/h2>
+<h2>React Native</h2>
 Using FlatList, TouchableOpacity, ScrollView, ImageBackground, Activityindicator.<br>
 Custom components for pokemon card.<br>
 Using React hooks (useState, useEffect, useRef).<br>
